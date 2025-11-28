@@ -1,0 +1,34 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "name": "Erik",
+            "lastname": "Parra",
+            "age": 20,
+            "country": "Colombia",
+            "Skills": "Python, Git/Github, Json, Bash, Linux",
+            "role": "Programmer",
+            "active": "offline"
+        },
+        {
+            "id": "2",
+            "name": "sebastian",
+            "lastname": "calderon",
+            "age": 20,
+            "country": "colombia",
+            "Skills": "mamon",
+            "role": "joder",
+            "active": "online"
+        },
+        {
+            "id": "3",
+            "name": "edu",
+            "lastname": "go",
+            "age": "19",
+            "country": "colombia",
+            "Skills": "caca",
+            "role": "xd",
+            "active": "offline"
+        }
+    ]
+}
